@@ -31,7 +31,6 @@ Design: Responsive Layout, Custom Animations
 
 ## 🖼️ Preview
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d8746cfd-4034-4384-9ba6-194cf26a9ed8" />
-Replace this with a real screenshot of your website
 
 ## 📁 Folder Structure
 portfolio/
