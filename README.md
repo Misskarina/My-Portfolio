@@ -44,3 +44,16 @@ portfolio/
 - │ └── other images
 
 
+## 🔗 Live Demo
+
+Coming soon on GitHub Pages...
+
+## 📞 Contact
+
+Email: 22btlsn001@jainuniversity.ac.in  
+LinkedIn: https://www.linkedin.com/in/karina-kumari026012/  
+GitHub: https://github.com/Misskarina  
+Instagram: https://www.instagram.com/__karinaa___/
+
+
+
