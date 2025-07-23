@@ -1,0 +1,100 @@
+@media(max-width:990px){
+    html{
+        font-size: 55.5%;
+} 
+    .home{
+        flex-flow: column-reverse;
+        padding: 8rem 0;
+         padding-top: 15rem;
+    }
+}
+
+
+@media(max-width:700px){
+    html{
+        font-size: 50.5%;
+    }
+    .home img{
+        height: 35rem;
+        width: 35rem;
+    }
+    .home{
+        padding: 8rem 0;
+    }
+    section{
+        padding: 1rem;
+    }
+    .header{
+        position: relative;
+        padding: 0;
+    }
+    .header .logo,
+    .header .menu{
+        padding: 1rem;
+    }
+    .menu i{
+        display: flex;
+    }
+    .header .navbar.active{
+        display: grid;
+    }
+    .header .navbar{
+        position: absolute;
+        top: 7rem;
+        display: none;
+        text-align: center;
+        justify-content: center;
+        background-color: var(--main-color);
+        width: 100%;
+        gap: 2rem;
+        padding: 1rem;
+    }
+    .header .navbar a#Home{
+        color: var(--text-color);
+        text-decoration: none;
+    }
+    .header .navbar a{
+        width: 100%;
+        padding: 1rem;
+    }
+    .header .navbar a:hover,
+    .header .navbar a#Home:hover
+    {
+        background-color: var(--white);
+        color: var(--main-color);
+        text-decoration: none;
+
+        
+    }
+}
+@media(max-width:450px){
+    
+    .home .content p{
+        width: 35rem;
+    }
+    .education .timeline-items{
+        display: grid;
+
+    }
+    .contact .form-container form{
+        display: grid;
+       
+    }
+    .contact .form-container form .inputs,
+    .contact .form-container form .text{
+    width: 100%;
+}
+.contact .form-container form .inputs .input,
+.contact .form-container form .text textarea{
+   
+    width: 100%;
+}
+.contact{
+    padding: 1rem 0;
+}
+
+
+}
+
+
+
