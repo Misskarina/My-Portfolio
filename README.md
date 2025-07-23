@@ -1,4 +1,4 @@
-## My-Portfolio
+
 # 💼 Karina Kumari – Portfolio Website
 
 Welcome to my personal developer portfolio.  
