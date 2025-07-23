@@ -34,5 +34,13 @@ Design: Responsive Layout, Custom Animations
 Replace this with a real screenshot of your website
 
 ## 📁 Folder Structure
+portfolio/
+- ├── index.html
+- ├── style.css
+- ├── script.js
+- ├── responsive.css
+- ├── /images
+- │ ├── profile-pic.png
+- │ └── other images
 
 
