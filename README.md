@@ -4,7 +4,7 @@
 Welcome to my personal developer portfolio.  
 This website showcases my education, skills, projects, certifications, and contact information in a clean, responsive design built using HTML, CSS, and JavaScript.
 
-## 🚀 About Me
+### 🚀 About Me
 
 Hi, I'm Karina Kumari, a Computer Science Engineering student passionate about Java development and full-stack web technologies.  
 I enjoy turning ideas into real-world applications and constantly strive to improve my skillset.
